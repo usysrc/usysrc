@@ -1,3 +1,3 @@
 ### usysrc
 
-[/u/sys/rc]: interested in code and how software is made.
+[/u/sys/rc]: I make small {{things}} 
